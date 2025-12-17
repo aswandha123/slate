@@ -1,0 +1,13 @@
+{
+  "manifest_vesion": 3,
+  "name": slate,
+  "version": "1.0",
+  "description": "a copy paste clipboard",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  },
+  "permission": [
+    "storage"
+    ]
+}
