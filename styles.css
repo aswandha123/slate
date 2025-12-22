@@ -1,5 +1,14 @@
 body{
 min-width:240px;
 min-height:360px;
-background color:#282828
+background color:#282828;
+}
+h1{
+color:#f6f6f6;
+text-align:center;
+}
+p{
+color:#f6f6f6;
+fontsize:medium;
+text-align:center;
 }
