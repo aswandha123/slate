@@ -1,6 +1,6 @@
 const STORAGE_KEY = 'scribbleContent';
 
-const scribbleArea = document.getElementById('ScribbleSpace');
+const scribbleArea = document.getElementById('slate');
 const clearButton = document.getElementById('clearButton');
 const saveButton = document.getElementById('saveButton');
 
